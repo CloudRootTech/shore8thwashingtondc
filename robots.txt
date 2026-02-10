@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+User-agent: AhrefsBot
+Allow: /
+
+Sitemap: https://CloudRootTech.github.io/shore8thwashingtondc/sitemap.xml
